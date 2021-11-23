@@ -1,0 +1,43 @@
+/* 1 TOTAL RUNS SCORED EVERY SEASON*/
+
+/* 2 TOTAL WICKETS TAKEN EVERY SEASON */
+
+/* 3 HIGHEST SCORER(PLAYER) OF ALL TIME */
+
+/* 4 HIGHEST WICKET TAKER(PLAYER) OF ALL TIME */
+
+/* 5 RUNS SCORED BY VIRAT KOHLI IN 2016 EDITION OF IPL */
+
+/* 6  Match won by the maximum margin of runs.*/
+
+/*7  Match won by maximum wickets.*/
+
+*8  Match won by the minimum margin of runs.*/
+
+/*9 Match won by minimum wickets.*/
+
+/* 10 Matches where D/L method was and wasn't applied.*/
+
+/* 11 No. of matches held in each city.*/
+
+/* 12) No. of matches won by each team. */
+
+/*13 No. of matches held every season and in each venue */
+
+/*14 Top 10 players based on no. of Man of Match (MOM) awards won. */
+
+/*15 Does winning the toss means winning the match?*/
+
+/*16 What was the decision taken by captains when they won the toss?*/
+
+/*17 No. of matches where D/L method was applied every season.*/
+
+/* 18 ANALYSIS OF PLAYERS IN EACH SEASON (VIRAT KOHLI) USING WINDOWS FUNCTIONS*/
+
+/* 19 NO OF SIX'S HIT EVERY SEASON*/
+
+/* 20 NO OF FOURS HIT EVERY SEASON*/
+
+/* 21 TEAMS WHO HIT THE MAXIMUM NUMBER OF SIXES */
+
+/* 22 TEAMS WHO HIT THE MAXIMUM NUMBER OF FOURS */
